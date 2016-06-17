@@ -1,0 +1,81 @@
+#ALLCONTENT {
+	padding: 20px;
+}
+
+#FULLNAME {
+	width: 40%;
+	font-size: 200%;
+	font-family: "Avenir";
+	float: left;
+	text-align: center;
+}
+
+#CONTACT {
+	width: 30%;
+	font-size: 120%;
+	font-family: "Baskerville";
+	float: left;
+	text-align: center;
+}
+
+#ADDRESS {
+	width: 30%;
+	font-size: 120%;
+	font-family: "Baskerville";
+	float: left;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+#SECOND {
+	width: 40%;
+	font-size: 140%;
+	font-family: "Avenir";
+	float: left;
+	text-align: center;
+}
+
+#THIRD {
+	width: 30%;
+	font-size: 140%;
+	font-family: "Baskerville";
+	float: left;
+	text-align: center;
+}
+
+#FIRST {
+	width: 30%;
+	font-size: 140%;
+	font-family: "Baskerville";
+	float: left;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+#CATEGORIES {
+	margin-top: 20px;
+	font-size: 160%;
+	font-family: "Chalkboard SE Light";
+}
+
+#box {
+    width: 100%;
+    height: auto;
+    background-color: beige;
+}
+
+#INNER {
+    padding: 5px;
+    font-size: 120%;
+    background-color: white;
+    width: 100%;
+    height: auto;
+    font-family: "Baskerville";
+    float: left;
+    word-wrap: break-word;
+    margin-bottom: 2px;
+}
+
+#TITLE {
+    font-weight: bold;
+}
